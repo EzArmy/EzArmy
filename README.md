@@ -1,4 +1,4 @@
-<h3 align="center">Currently starting my degree in development of software multiplatform👨‍🎓</h3>
+<h3 align="center">Currently starting my degree in multi-platform system development👨‍🎓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezarmy&label=Profile%20views&color=0e75b6&style=flat" alt="ezarmy" /> </p>
 
